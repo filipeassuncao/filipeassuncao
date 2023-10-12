@@ -24,3 +24,7 @@ Desenvolvedor **backend** com foco em PHP e NodeJS, API REST, documentação, re
   <img align="center" alt="" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </div><br/>
+
+## Projetos de comprovação de conhecimento
+  * https://github.com/filipeassuncao/api-rest-typescript
+  * https://github.com/filipeassuncao/laravel-login
