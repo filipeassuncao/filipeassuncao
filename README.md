@@ -1,5 +1,3 @@
-### Olá! Eu sou o Filipe Assunção 👋
-
 Desenvolvedor **backend** com foco em PHP e NodeJS, API REST, documentação, resolução de problemas em funcionalidades existentes, mapeamento de fluxos e regras de negócios, refatoração, testes automatizados e priorização de boas práticas de desenvolvimento.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-assun%C3%A7%C3%A3o-3a54a0bb/)
