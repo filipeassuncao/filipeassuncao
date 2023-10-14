@@ -26,5 +26,5 @@ Desenvolvedor **backend** com foco em PHP e NodeJS, API REST, documentação, re
 </div><br/>
 
 ## Projetos de comprovação de conhecimento
-  * https://github.com/filipeassuncao/api-rest-typescript (Node, Express, TypeORM, Swagger, Docker, Redis, Rabbitmq, Postgresql)
+  * https://github.com/filipeassuncao/api-rest-typescript (Node, Express, TypeORM, Swagger, Docker, cache (Redis), mensageria (Rabbitmq), Postgresql)
   * https://github.com/filipeassuncao/laravel-login (PHP, Laravel, Eloquent ORM, Swagger, Postgres, JWT, Docker)
