@@ -25,6 +25,6 @@ Desenvolvedor **backend** com foco em PHP e NodeJS, API REST, documentação, re
   <img align="center" alt="" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </div><br/>
 
-## Projetos de comprovação de conhecimento
+## Projetos para comprovação de conhecimento
   * https://github.com/filipeassuncao/api-rest-typescript (Node, Express, TypeORM, Swagger, Docker, cache (Redis), mensageria (Rabbitmq), Postgresql)
   * https://github.com/filipeassuncao/laravel-login (PHP, Laravel, Eloquent ORM, Swagger, Postgres, JWT, Docker)
